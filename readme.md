@@ -16,7 +16,8 @@ Honest time it tooked me is 2 hours.
 
 ## Screen Shorts of the project
 
-![](./images/Screen.jpg)
+![Screen](./images/Screen.jpg)
 
 ## Live link to the project
 
+[Netlify Link...](https://interior-design-landing-page-proj10.netlify.app/)
